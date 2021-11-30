@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HjInYoMaMa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c#
-- 📫 How to reach me hj.#4466
+- 🌱 I’m currently learning nothing
+- 📫 How to reach me hj.#4337
