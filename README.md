@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HjInYoMaMa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently making my own FiveM Lua Executor
 - 📫 How to reach me hj.#4337
