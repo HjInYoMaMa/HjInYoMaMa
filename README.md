@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me hj.#4337
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?HjInYoMama&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?HjInYoMaMa&theme=radical)
