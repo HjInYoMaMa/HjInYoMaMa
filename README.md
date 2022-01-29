@@ -1,4 +1,4 @@
 - 👋 Hi, I’m hj.
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing nothing
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me hj.#4337
